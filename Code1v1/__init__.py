@@ -4,3 +4,4 @@
 # @FileName: __init__.py.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
+from Code1v1.chapter1 import add_sum
