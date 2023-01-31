@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+1v1.egg-info/PKG-INFO
+1v1.egg-info/SOURCES.txt
+1v1.egg-info/dependency_links.txt
+1v1.egg-info/top_level.txt
+chapter1/__init__.py
+chapter1/__version__.py
+chapter1/core.py

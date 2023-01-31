@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: 1v1
+Version: 0.0.1
+Summary: Python1v1
+Home-page: https://github.com/AndersonHJB/1v1-learning
+Author: Bornforthis
+Author-email: bornforthis@bornforthis.cn
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Python1v1
+
