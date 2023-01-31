@@ -1,7 +1,8 @@
 📦 setup.py (for humans)
 =======================
 
-[https://github.com/AndersonHJB/1v1-learning](https://github.com/AndersonHJB/1v1-learning)
+- Github: [https://github.com/AndersonHJB/1v1-learning](https://github.com/AndersonHJB/1v1-learning)
+- Pypi: [https://pypi.org/project/Code1v1/](https://pypi.org/project/Code1v1/)
 
 This repo exists to provide [an example setup.py] file, that can be used
 to bootstrap your next Python project. It includes some advanced
