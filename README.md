@@ -1,6 +1,8 @@
 📦 setup.py (for humans)
 =======================
 
+[https://github.com/AndersonHJB/1v1-learning](https://github.com/AndersonHJB/1v1-learning)
+
 This repo exists to provide [an example setup.py] file, that can be used
 to bootstrap your next Python project. It includes some advanced
 patterns and best practices for `setup.py`, as well as some
