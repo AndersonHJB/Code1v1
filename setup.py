@@ -13,7 +13,7 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = 'Code1v1'
-DESCRIPTION = 'Bornforthis 1v1'
+DESCRIPTION = 'Code 1v1'
 URL = 'https://github.com/AndersonHJB/1v1-learning'
 EMAIL = 'bornforthis@bornforthis.cn'
 AUTHOR = 'Bornforthis'
