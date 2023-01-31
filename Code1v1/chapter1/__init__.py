@@ -1,1 +1,1 @@
-
+from .ClassGame import *
