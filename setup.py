@@ -14,11 +14,11 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'Code1v1'
 DESCRIPTION = 'Code 1v1 是 AI悦创·致力推广编程教学而研发的教学库'
-URL = 'https://github.com/AndersonHJB/1v1-learning'
+URL = 'https://github.com/AndersonHJB/Code1v1'
 EMAIL = 'bornforthis@bornforthis.cn'
 AUTHOR = 'Bornforthis'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.0.7'
+VERSION = '0.0.9'
 
 # What packages are required for this module to be executed?
 REQUIRED = [

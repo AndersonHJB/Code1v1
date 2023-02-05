@@ -4,9 +4,11 @@
 Hello, this is Yue Chuang.
 
 如果你对 Python 库开发比较熟悉且有兴趣一起研发和优化，欢迎👏发提交 issues 申请。[https://github.com/AndersonHJB/Code1v1/issues](https://github.com/AndersonHJB/Code1v1/issues)。
+
 If you are familiar with Python library development and are interested in working together to develop and optimize it, please submit an issues request at 👏.[https://github.com/AndersonHJB/Code1v1/issues](https://github.com/AndersonHJB/Code1v1/issues)
 
 欢迎提交 Pull requests。
+
 You are welcome to submit Pull requests.
 
 ## Links
