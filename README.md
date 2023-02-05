@@ -39,6 +39,6 @@ binary, for any purpose, commercial or non-commercial, and by any means.
 
 ### Wechat
 
-![img_1.png](img_1.png)
+![img_1.png](https://github.com/AndersonHJB/Code1v1/raw/main/img.png)
 
 ### Email:aiyuechuang@gmail.com
