@@ -12,7 +12,7 @@ from faker import Faker
 # 随机生成敌人名称
 # 自定义玩家名称
 # 扩展：要求特殊神通：一键回血，副作用：敌人攻击值加倍
-class Creature():
+class Creature(object):
     def __init__(self, hp, name=Faker().name()):
         self.hp = hp
         self.name = name
